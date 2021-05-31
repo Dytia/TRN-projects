@@ -1,3 +1,1 @@
-This is for coding to do with the project
-Do code in main.py 
-Do NOT touch anything else
+This is for coding to do with the project\nDo code in main.py\n Do NOT touch anything else
